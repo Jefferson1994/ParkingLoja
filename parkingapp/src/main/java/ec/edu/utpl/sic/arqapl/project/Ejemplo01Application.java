@@ -1,0 +1,15 @@
+package ec.edu.utpl.sic.arqapl.project;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+@SpringBootApplication
+public class Ejemplo01Application {
+
+	public static void main(String[] args) {
+                
+		SpringApplication.run(Ejemplo01Application.class, args);
+                
+                
+	}
+
+}
